@@ -61,3 +61,18 @@ Name: Mike Villagomez
 Assignment: Module 8 – FastAPI Calculator App
 
 
+## 🖼️ Screenshots
+
+### 1️⃣ App Running in Browser
+
+!(images/1.png)
+
+![Swagger UI](images/2.png)
+
+!(images/3.png)
+
+!(images/4.png)
+
+### 2️⃣ GitHub Actions Passing (CI)
+
+!(images/5.png)
