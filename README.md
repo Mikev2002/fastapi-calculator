@@ -63,16 +63,15 @@ Assignment: Module 8 – FastAPI Calculator App
 
 ## 🖼️ Screenshots
 
-### 1️⃣ App Running in Browser
+All screenshots are located in the `images/` folder of this repository.
 
-![App Screenshot 1](images/1.png)  
-![App Screenshot 2](images/2.png)  
-![App Screenshot 3](images/3.png)  
+### 1️⃣ App Running in Browser
+- `images/1.png`
+- `images/2.png`
+- `images/3.png`
 
 ### 2️⃣ Swagger Docs at `/docs`
-
-![Swagger UI](images/4.png)
+- `images/4.png`
 
 ### 3️⃣ GitHub Actions Workflow Passing
-
-![GitHub Actions](images/5.png)
+- `images/5.png`
