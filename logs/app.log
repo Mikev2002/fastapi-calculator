@@ -1,0 +1,2 @@
+2025-10-21 20:15:14,323 - INFO - Add: 5.0 + 3.0 = 8.0
+2025-10-21 20:15:23,439 - ERROR - Error: Cannot divide by zero.
