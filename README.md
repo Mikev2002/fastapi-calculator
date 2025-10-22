@@ -65,14 +65,14 @@ Assignment: Module 8 – FastAPI Calculator App
 
 ### 1️⃣ App Running in Browser
 
-!(images/1.png)
+![App Screenshot 1](images/1.png)  
+![App Screenshot 2](images/2.png)  
+![App Screenshot 3](images/3.png)  
 
-![Swagger UI](images/2.png)
+### 2️⃣ Swagger Docs at `/docs`
 
-!(images/3.png)
+![Swagger UI](images/4.png)
 
-!(images/4.png)
+### 3️⃣ GitHub Actions Workflow Passing
 
-### 2️⃣ GitHub Actions Passing (CI)
-
-!(images/5.png)
+![GitHub Actions](images/5.png)
